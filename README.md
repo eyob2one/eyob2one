@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @EyobShikur
-- 👀 I’m obsessed with programming
-- 🌱 I’m currently learning at high school.
-- 📡 Future programmer.
-- 🕸 My blog: https://mobotherapy2.blogspot.com
+
 
 
 
